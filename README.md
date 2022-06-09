@@ -1,8 +1,8 @@
 # Acknowledgements
 
-This tool is part of my thesis project about "Big Data Interactive Visualization"  
+This tool is part of my thesis project about "Big Data Interactive Visualization".
 
-The tool aimed for creating Interactive visualization using React and D3 for Twitter 
+The tool aimed for creating Interactive visualization using React and D3 for Twitter. 
 
 This work is also an extension of other projects:
 
