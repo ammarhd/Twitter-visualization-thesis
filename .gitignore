@@ -1,5 +1,8 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
+#ignore the data file when pushing to Github
+/src/data/finalData.json
+
 # dependencies
 /node_modules
 /.pnp
