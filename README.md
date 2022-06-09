@@ -1,4 +1,4 @@
-#Acknowledgements
+# Acknowledgements
 
 This tool is part of my thesis project about "Big Data Interactive Visualization"  
 
