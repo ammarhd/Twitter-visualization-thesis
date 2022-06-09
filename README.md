@@ -1,3 +1,21 @@
+#Acknowledgements
+
+This tool is part of my thesis project about "Big Data Interactive Visualization"  
+
+The tool aimed for creating Interactive visualization using React and D3 for Twitter 
+
+This work is also an extension of other projects:
+
+https://github.com/lamastex/twitterVisualizations
+
+https://github.com/lamastex/mep
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
